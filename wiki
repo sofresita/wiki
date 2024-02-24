@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wiki de Docentes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0e6f6;
+        }
+        header, footer {
+            background-color: #eca9d0;
+            color: #000000;
+            text-align: center;
+            padding: 20px 0;
+        }
+        nav {
+            background-color: #3b3b3b;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #ffffff;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+            background-color: #ffffff;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        .concepto {
+            font-weight: bold;
+            color: #0f0f0f;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+        .stars {
+            fill: #3b3b3b;
+            width: 20px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Wiki de Docentes</h1>
+    </header>
+
+    <nav>
+        <a href="#inicio">Inicio</a> | 
+        <a href="#marco_teorico">Marco Teórico</a> | 
+        <a href="#bocetos">Bocetos de Imágenes</a>
+    </nav>
+
+    <section id="inicio">
+        <h2>Inicio</h2>
+        <p>Bienvenido a la Wiki de Docentes, donde encontrarás información sobre diversos conceptos relacionados con la enseñanza y el aprendizaje.</p>
+        <svg class="stars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L9.38 8.7 2 9.64 7.1 14.46 5.47 22 12 18.82 18.53 22l-1.64-7.54L22 9.64l-7.38-1.05L12 2z"/></svg>
+        <svg class="stars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L9.38 8.7 2 9.64 7.1 14.46 5.47 22 12 18.82 18.53 22l-1.64-7.54L22 9.64l-7.38-1.05L12 2z"/></svg>
+        <svg class="stars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L9.38 8.7 2 9.64 7.1 14.46 5.47 22 12 18.82 18.53 22l-1.64-7.54L22 9.64l-7.38-1.05L12 2z"/></svg>
+    </section>
+
+    <section id="marco_teorico">
+        <h2>Marco Teórico</h2>
+        <div>
+            <p><span class="concepto">1. Aprendizaje:</span> Proceso mediante el cual los individuos adquieren conocimientos, habilidades y actitudes a partir de la interacción con su entorno y la experiencia.</p>
+            <img src="https://i.pinimg.com/736x/2e/9a/6f/2e9a6feb5d10c41cd8f10eecdf842a58.jpg" alt="Aprendizaje">
+            <p><span class="concepto">2. Autorregulación del aprendizaje:</span> Capacidad de los estudiantes para gestionar y controlar sus propios procesos de aprendizaje, estableciendo metas, planificando estrategias y evaluando su progreso.</p>
+            <img src="https://i.pinimg.com/736x/7a/57/ce/7a57ce67943861d267e5fd2c05d1d735.jpg" alt="Autorregulación del aprendizaje">
+            <p><span class="concepto">3. Currículo:</span> Conjunto de objetivos, contenidos, metodologías y evaluaciones que guían el proceso educativo en un determinado nivel o área de enseñanza.</p>
+            <img src="https://i.pinimg.com/736x/48/34/c3/4834c3ef40fc52e70ee797ee4aa3e797.jpg" alt="Currículo">
+            <p><span class="concepto">4. Desarrollo profesional:</span> Proceso continuo de adquisición de conocimientos, habilidades y competencias por parte de los docentes para mejorar su práctica educativa.</p>
+            <img src="https://i.pinimg.com/736x/04/f4/d3/04f4d3e0554eb0a78619f8bad9530f75.jpg" alt="Desarrollo profesional">
+            <p><span class="concepto">5. Didáctica:</span> Conjunto de técnicas, métodos y estrategias utilizadas por los docentes para facilitar el proceso de enseñanza y el aprendizaje de los estudiantes.</p>
+            <img src="https://i.pinimg.com/736x/9e/fb/7c/9efb7ca99990ee280774810897a89c7a.jpg" alt="Didáctica">
+            <p><span class="concepto">6. Diversificación del aprendizaje:</span> Adaptación de las metodologías y recursos educativos para atender las necesidades individuales de los estudiantes y promover un aprendizaje inclusivo.</p>
+            <img src="https://i.pinimg.com/736x/1a/57/c7/1a57c750c2d8dbfcd5743fa06d0ddb8f.jpg" alt="Diversificación del aprendizaje">
+            <p><span class="concepto">7. Ética:</span> Conjunto de principios y valores morales que guían la conducta profesional y personal de los docentes en el ejercicio de su labor educativa.</p>
+            <img src="https://i.pinimg.com/736x/25/27/b7/2527b7a837c8883ae4cd41a4b98e09ff.jpg" alt="Ética">
+            <p><span class="concepto">8. Evaluación educativa:</span> Proceso sistemático de recopilación, análisis e interpretación de información sobre el rendimiento y progreso de los estudiantes con el fin de tomar decisiones educativas.</p>
+            <img src="https://i.pinimg.com/736x/37/f0/31/37f0316c0451807a8359be2078dc745c.jpg" alt="Evaluación educativa">
+            <p><span class="concepto">9. Formación continua:</span> Actualización y desarrollo profesional permanente de los docentes a lo largo de su carrera, mediante cursos, talleres, seminarios y otras actividades formativas.</p>
+            <img src="https://i.pinimg.com/736x/53/6e/5b/536e5bbd58c77140be3533b24a0ea6e3.jpg" alt="Formación continua">
+            <p><span class="concepto">10. Gestión del aula:</span> Conjunto de estrategias y técnicas utilizadas por los docentes para organizar y gestionar el espacio, el tiempo y el comportamiento de los estudiantes en el aula.</p>
+            <img src="https://i.pinimg.com/736x/a4/37/ca/a437ca57c7fd3d27a2e3fcdeb91d45f8.jpg" alt="Gestión del aula">
+            <p><span class="concepto">11. Inclusión educativa:</span> Proceso de garantizar el acceso, la participación y el éxito de todos los estudiantes en el sistema educativo, independientemente de sus características o necesidades.</p>
+            <img src="https://i.pinimg.com/736x/4c/c5/4b/4cc54bdd5a06afccd6af36d27ca237ed.jpg" alt="Inclusión educativa">
+            <p><span class="concepto">12. Integración curricular:</span> Incorporación de contenidos, actividades y recursos de diferentes áreas o disciplinas dentro del currículo para promover un enfoque interdisciplinario en la enseñanza y el aprendizaje.</p>
+            <img src="https://i.pinimg.com/736x/5d/42/51/5d4251e4cb953217b2d1ea8425cdf7c8.jpg" alt="Integración curricular">
+            <p><span class="concepto">13. Motivación escolar:</span> Estímulo interno o externo que impulsa a los estudiantes a participar activamente en el proceso de aprendizaje y alcanzar sus metas académicas.</p>
+            <img src="https://i.pinimg.com/736x/16/57/12/165712d7e3ac0ffc091487ebd19b6f59.jpg" alt="Motivación escolar">
+            <p><span class="concepto">14. Pedagogía:</span> Ciencia y arte de la enseñanza que estudia los principios, métodos y técnicas para facilitar el aprendizaje de los estudiantes y promover su desarrollo integral.</p>
+            <img src="https://i.pinimg.com/736x/14/e2/e7/14e2e7c3220407626dc015b09a6e3a36.jpg" alt="Pedagogía">
+            <p><span class="concepto">15. Teorías de aprendizaje:</span> Conjunto de enfoques, modelos y explicaciones que buscan comprender cómo se produce el aprendizaje en los individuos y cómo puede ser facilitado de manera efectiva.</p>
+            <img src="https://i.pinimg.com/736x/48/5b/21/485b216465f53cc70509d17cfb72edf2.jpg" alt="Teorias de aprendizaje">
+        </div>
+    </section>
+
+    <section id="bocetos">
+        <h2>Bocetos de Imágenes</h2>
+        <img src="https://i.pinimg.com/736x/d7/52/cf/d752cf348fda66f5e3b972a55036ea67.jpg" alt="Bocetos de imagenes">
+        <div>
+            <svg class="stars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L9.38 8.7 2 9.64 7.1 14.46 5.47 22 12 18.82 18.53 22l-1.64-7.54L22 9.64l-7.38-1.05L12 2z"/></svg>
+            <svg class="stars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L9.38 8.7 2 9.64 7.1 14.46 5.47 22 12 18.82 18.53 22l-1.64-7.54L22 9.64l-7.38-1.05L12 2z"/></svg>
+            <svg class="stars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L9.38 8.7 2 9.64 7.1 14.46 5.47 22 12 18.82 18.53 22l-1.64-7.54L22 9.64l-7.38-1.05L12 2z"/></svg>
+        </div>
+    </section>
+
+    <footer>
+        <p>Derechos de autor &copy; 2024</p>
+    </footer>
+</body>
+</html>
